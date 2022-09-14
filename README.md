@@ -1,4 +1,5 @@
-**Overview: ** 
+
+**Overview:**
 
 An RTL implementation of an AES module and its gate-level implementation with a bug are given. Here, an equivalence between these two implementations are done using Synopsys Formality.
 
